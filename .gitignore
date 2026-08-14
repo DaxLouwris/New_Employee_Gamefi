@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+secrets/
+certificates/
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+*.htpasswd
