@@ -1,4 +1,9 @@
 # De eerste route — zelfstandige overdrachtsversie
+# New Employee Gamefi
+
+Een interactieve route om nieuwe medewerkers in te werken, als alternatief voor een statisch document met alleen onboardinginformatie.
+
+## De eerste route — zelfstandige overdrachtsversie
 
 Deze map is een **volledig statische, platformvrije versie** van het onboarding-ganzenbord. Zij bevat alleen HTML, CSS, JavaScript en vijf lokale afbeeldingen. De versie bevat geen servercode, analytics, telemetrie, API-aanroepen, cookies, accounts, omgevingsvariabelen of externe assets. Spelvoortgang bestaat uitsluitend in het geheugen van de geopende browser en verdwijnt bij vernieuwen of sluiten.
 
